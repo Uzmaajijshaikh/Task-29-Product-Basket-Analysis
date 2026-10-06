@@ -7,8 +7,10 @@ Dataset - Online Retail II Dataset
 Objective - The objective was to identify products frequently purchased together and understand potential cross-selling and product-bundling opportunities.
 
 Tools Used
-1. Google Colab
-2. GitHub
+1. Python
+2. Pandas
+3. Google Colab
+4. GitHub
 
 Product Basket Analysis
 1. Used the Online Retail II Dataset containing 525,461 records.
